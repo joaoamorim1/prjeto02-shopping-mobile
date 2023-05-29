@@ -1,0 +1,92 @@
+*{
+    font-family: 'Oswald', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-weight: 400;
+
+}
+
+
+h1{
+    font-size: 70px;
+    line-height: 80px;
+    color: #5d5d7d;
+    width: 368px;
+}
+
+P{
+    width: 570px;
+    font-size: 28px;
+    line-height: 48px;
+    opacity: .4;
+    color: #5d5d7d;
+    margin: 15px 0
+    ;
+}
+
+button{
+    background-color: #9499ea;
+    width: 269px;
+    height: 62px;
+    border: none;
+    border-radius: 24px;
+    font-size:24px ;
+    line-height: 36px;
+    color: #ffffff;
+
+}
+
+header{
+    margin: 25px 0 0px 57px;
+}
+
+img{
+    position: fixed;
+    margin: 50px -123px;
+}
+
+.link-header{
+    font-size: 28px;
+    line-height: 42px;
+    color: #5d5d7d;
+    margin-right: 42px;
+
+}
+
+.link-header:nth-child(2){
+    opacity:.4;
+}
+
+body{
+    height: 100vh;
+    width: 100vw;
+}
+
+
+.heigth{
+   
+    background:rgb(93, 93, 125, .1);
+    display: inline-block;
+    height: 100%;
+    width: 40%;
+    position: absolute;
+   
+}
+
+section{
+    display: inline-block;
+    
+    width: 60%;
+
+}
+
+div{
+    margin-top: 260px;
+    margin-left: 91px;
+}
+
+
+
+
+
